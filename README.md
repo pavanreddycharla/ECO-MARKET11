@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> ECO-MARKET11 </a><br>
     </b>
-    ⭐This is a sample tag line  ⭐ <br>
+    ⭐ <br>
 </h1>
 
 # [Website link](https://pavanreddycharla.github.io/ECO-MARKET11/)  [`Demo video link `](https://youtu.be/e4L0fSVOk74?si=E1Fo04k7Nu8Fmj3e) [`Other links `](https://youtu.be/e4L0fSVOk74?si=E1Fo04k7Nu8Fmj3e) 
